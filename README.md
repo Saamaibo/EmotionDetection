@@ -60,7 +60,3 @@ DATASET/
 
 - Emotion classifiers are sensitive to lighting, camera angle, and demographics of the training set. Treat predictions as a demo, not ground truth.
 - Only the first detected face is classified, although the face count shows all detected faces.
-
-## License
-
-[MIT](LICENSE)
